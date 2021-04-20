@@ -1,9 +1,8 @@
 import React from "react";
-function Html() {
+function Css() {
   return (
     <div>
-      <h1>HTML</h1>
+      <h1>CSS</h1>
     </div>
   );
 }
-export default Html;
