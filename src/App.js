@@ -3,6 +3,7 @@ import "./App.css";
 import Html from "./Html";
 import Css from "./Css";
 import Js from "./Js";
+import Branch1 from "./Branch1";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Html />
       <Css />
       <Js />
+      <Branch1 />
     </div>
   );
 }
